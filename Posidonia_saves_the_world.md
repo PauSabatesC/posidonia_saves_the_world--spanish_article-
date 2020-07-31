@@ -61,7 +61,7 @@ Con lo que si con los árboles no tenemos solución investigar sobre organismos 
 	- https://ec.europa.eu/environment/nature/natura2000/management/habitats/pdf/1120_Posidonia_beds.pdf
 
 
-## Propuesta de replantación
+## Análisis sobre la posibilidad de una replantación global como herramienta de purificador marino.
 
 https://ec.europa.eu/environment/nature/natura2000/management/habitats/pdf/1120_Posidonia_beds.pdf
 
