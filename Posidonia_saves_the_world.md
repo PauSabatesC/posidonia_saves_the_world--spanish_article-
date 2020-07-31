@@ -4,7 +4,7 @@
 **Porqué?**
 Bueno dados este articulo, nos quedan un par de decadas para no llegar a un estado insostenible:
 https://www.nature.com/articles/s41598-020-63657-6
-Con lo que investigar sobre organismos que puedan limpiar el océano y generar oxígeno es un buen paso.
+Con lo que si con los árboles no tenemos solución investigar sobre organismos que puedan limpiar el océano y generar oxígeno es un buen paso.
 
 ## Información básica
 
@@ -50,20 +50,19 @@ Con lo que investigar sobre organismos que puedan limpiar el océano y generar o
 - NAA compuesto mejora crecimiento de Phyllospadix torrey.
 - https://www.ree.es/sites/default/files/downloadable/Guia-plantado-posidonia-oceanica_nov_en.pdf
 - De los experimentos de replantación hechos no hay claros resultados sobre buena adaptación a nuevos entornos o habitats.
-	https://www.degruyter.com/view/journals/botm/36/3/article-p209.xml
-	https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1439-0485.1992.tb00348.x
-	https://www.sciencedirect.com/science/article/abs/pii/S0025326X03004247
+	- https://www.degruyter.com/view/journals/botm/36/3/article-p209.xml
+	- https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1439-0485.1992.tb00348.x
+	- https://www.sciencedirect.com/science/article/abs/pii/S0025326X03004247
 	
 - Aún así este estudio de varios años concluye que para una buena adaptación a nuevos hábitats, estos tienen que haber sido habitados por vegetación que se extiende en praderas (seagrass meadows). Dado eso, al cabo de 4 años se obserbó la floración i producción de nuevas semillas. La replantación tuvo lugar en Australia.
-	https://www.sciencedirect.com/science/article/abs/pii/S0272771408001686
+	- https://www.sciencedirect.com/science/article/abs/pii/S0272771408001686
 
 - Dado que en el mar mediterráneo y en Australia tiene buen clima para su hábitat, se puede decir que las únicas zonas donde es más probable que la replantación sea exitosa es en clima mediterráneo.
-	https://es.wikipedia.org/wiki/Clima_mediterr%C3%A1neo#/media/Archivo:Cs_climate.png
+	- https://ec.europa.eu/environment/nature/natura2000/management/habitats/pdf/1120_Posidonia_beds.pdf
 
 
 ## Propuesta de replantación
 
-https://es.wikipedia.org/wiki/Posidonia_oceanica#Reproducci%C3%B3n
 https://ec.europa.eu/environment/nature/natura2000/management/habitats/pdf/1120_Posidonia_beds.pdf
 
 Partiendo del resultado de 
