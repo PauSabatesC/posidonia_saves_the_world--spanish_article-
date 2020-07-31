@@ -22,43 +22,42 @@ Con lo que investigar sobre organismos que puedan limpiar el océano y generar o
 - En las playas, sobre todo en invierno, también se encuentran "bolas" marrones de fibras de Posidonia formadas por el oleaje.
 
 **Ecología:**
-	- Vive entre 1 y 30 m de profundidad, excepcionalmente y sólo en aguas muy claras hasta los 40 m, y soporta temperaturas comprendidas entre los 10 y los 28 ºC.
-	- Necesita valores de salinidad relativamente constantes, por lo que difícilmente se encuentra cerca de la desembocadura de los ríos o en las lagunas.
-	- Junto a ella conviven comunidades epifitas y detritívoras principalmente que contribuyen a la descomposición y al reciclado de los nutrientes.
+- Vive entre 1 y 30 m de profundidad, excepcionalmente y sólo en aguas muy claras hasta los 40 m, y soporta temperaturas comprendidas entre los 10 y los 28 ºC.
+- Necesita valores de salinidad relativamente constantes, por lo que difícilmente se encuentra cerca de la desembocadura de los ríos o en las lagunas.
+- Junto a ella conviven comunidades epifitas y detritívoras principalmente que contribuyen a la descomposición y al reciclado de los nutrientes.
 
 
 **Ventajas que aporta en el ecosistema costero**
-	- proporciona refugio y es zona de reproducción para muchos peces, cefalópodos, bivalvos, gasterópodos, equinodermos y tunicados
-	- gracias a su desarrollo foliar libera al ambiente hasta 20 litros de oxígeno por día y por m2 de pradera
-	- ayuda a contrarrestar un excesivo transporte de sedimentos debido a las corrientes costeras
-	- actúa como barrera, atenuando la fuerza de las corrientes y las olas y previniendo por tanto la erosión costera
-	- 
+- proporciona refugio y es zona de reproducción para muchos peces, cefalópodos, bivalvos, gasterópodos, equinodermos y tunicados
+- gracias a su desarrollo foliar libera al ambiente hasta 20 litros de oxígeno por día y por m2 de pradera
+- ayuda a contrarrestar un excesivo transporte de sedimentos debido a las corrientes costeras
+- actúa como barrera, atenuando la fuerza de las corrientes y las olas y previniendo por tanto la erosión costera
+-  
 
 **Amenazas:**
-	- se ve muy afectada por la transparencia del agua, por lo que un aumento de la turbidez, ya sea producido por la resuspensión de sedimento o por un vertido, afectará negativamente a la pradera.
-	- Algas invasoras(ophocladia lallemandii o Caulerpa racemosa)
-	- crece a poca profundidad con lo que los barcos la dañan.
-	- contaminación ambiental
-	- Pesca de arrastre
-	- eutrofización de las aguas costeras, que causa un crecimiento anormal de algas epifitas, obstaculizando así la fotosíntesis
+- se ve muy afectada por la transparencia del agua, por lo que un aumento de la turbidez, ya sea producido por la resuspensión de sedimento o por un vertido, afectará negativamente a la pradera.
+- Algas invasoras(ophocladia lallemandii o Caulerpa racemosa)
+- crece a poca profundidad con lo que los barcos la dañan.
+- contaminación ambiental
+- Pesca de arrastre
+- eutrofización de las aguas costeras, que causa un crecimiento anormal de algas epifitas, obstaculizando así la fotosíntesis
 
 **Plantas similares:**
-	- Phyllospadix torreyi
+- Phyllospadix torreyi
 ----
 
 ## Estado del arte con la replantación:
-	- NAA compuesto mejora crecimiento de Phyllospadix torrey.
-	- https://www.ree.es/sites/default/files/downloadable/Guia-plantado-posidonia-oceanica_nov_en.pdf
-
-	- De los experimentos de replantación hechos no hay claros resultados sobre buena adaptación a nuevos entornos o habitats.
+- NAA compuesto mejora crecimiento de Phyllospadix torrey.
+- https://www.ree.es/sites/default/files/downloadable/Guia-plantado-posidonia-oceanica_nov_en.pdf
+- De los experimentos de replantación hechos no hay claros resultados sobre buena adaptación a nuevos entornos o habitats.
 	https://www.degruyter.com/view/journals/botm/36/3/article-p209.xml
 	https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1439-0485.1992.tb00348.x
 	https://www.sciencedirect.com/science/article/abs/pii/S0025326X03004247
 	
-	- Aún así este estudio de varios años concluye que para una buena adaptación a nuevos hábitats, estos tienen que haber sido habitados por vegetación que se extiende en praderas (seagrass meadows). Dado eso, al cabo de 4 años se obserbó la floración i producción de nuevas semillas. La replantación tuvo lugar en Australia.
+- Aún así este estudio de varios años concluye que para una buena adaptación a nuevos hábitats, estos tienen que haber sido habitados por vegetación que se extiende en praderas (seagrass meadows). Dado eso, al cabo de 4 años se obserbó la floración i producción de nuevas semillas. La replantación tuvo lugar en Australia.
 	https://www.sciencedirect.com/science/article/abs/pii/S0272771408001686
 
-	- Dado que en el mar mediterráneo y en Australia tiene buen clima para su hábitat, se puede decir que las únicas zonas donde es más probable que la replantación sea exitosa es en clima mediterráneo.
+- Dado que en el mar mediterráneo y en Australia tiene buen clima para su hábitat, se puede decir que las únicas zonas donde es más probable que la replantación sea exitosa es en clima mediterráneo.
 	https://es.wikipedia.org/wiki/Clima_mediterr%C3%A1neo#/media/Archivo:Cs_climate.png
 
 
